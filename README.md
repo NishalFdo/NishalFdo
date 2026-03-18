@@ -1,60 +1,96 @@
-# 👋 Hi, I'm Nishal
+# 👋 Nishal Fernando
 
-🚀 Building **MomOS** — a productivity-focused desktop OS  
-⚡ Full-stack Developer (React + Rust + Python)  
-🧠 Focused on systems, analytics & developer tools  
-
-🌐 **Portfolio:** https://nishalfdo-portfolio.vercel.app
+![typing](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Full-stack+Engineer;Systems+%2B+Analytics;Building+Scalable+Tools)
 
 ---
 
-## 🧠 About Me
+🚀 Full-stack developer focused on building **scalable systems, developer tools, and data-driven applications**  
+⚡ Strong interest in **low-level + high-level integration (Rust ↔ Python ↔ React)**  
+🧠 Currently exploring **system design, CI/CD, and performance-driven architectures**
 
-- 🔭 Currently building **MomOS**
-- ⚙️ Working with **Tauri, Elasticsearch, ActivityWatch**
-- 🌱 Learning **CI/CD, system design, scalable architectures**
-- 🎯 Goal: Build impactful and intelligent software systems
+🌐 **Portfolio:** https://nishalfdo-portfolio.vercel.app  
+
+---
+
+## 🧩 What I Work On
+
+- 🖥 Desktop applications (Tauri + Rust)
+- 🔍 Data systems & analytics (Elasticsearch)
+- ⚙️ Backend services (Python APIs)
+- 🎯 Productivity & automation tools
+- 🧠 System-level thinking + architecture design
 
 ---
 
 ## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/-React-000?&logo=react)
+### 💻 Core
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Tauri](https://img.shields.io/badge/-Tauri-000?&logo=tauri)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Work
 
-### 🔥 MomOS
-> A productivity-focused desktop OS powered by real-time tracking & analytics
+### 🧠 Productivity & System Tools
+- Desktop-based productivity tracking system  
+- Real-time analytics pipelines using Elasticsearch  
+- Cross-platform apps integrating Rust + Web UI  
 
-- ⚡ Activity tracking via ActivityWatch  
-- 🔍 Real-time insights using Elasticsearch  
-- 🖥 Cross-platform desktop app (Tauri + Rust + React)  
+### ⚙️ Backend & Data Systems
+- API services with Python  
+- Data indexing + querying systems  
+- Local-first architecture setups  
 
-👉 https://github.com/yourusername/momos
-
----
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-![streak](https://streak-stats.demolab.com?user=yourusername)
+👉 Explore more: https://github.com/yourusername?tab=repositories  
 
 ---
 
-## 📈 Activity Graph
+## 📊 GitHub Insights
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername)
+![stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)
+
+---
+
+## ⚡ Deep Dive
+
+<details>
+<summary>🧠 Engineering Interests</summary>
+
+- System design & scalability  
+- Performance optimization  
+- Developer tooling  
+- Data-driven applications  
+- Local-first architectures  
+
+</details>
+
+<details>
+<summary>⚙️ Currently Exploring</summary>
+
+- Advanced CI/CD pipelines  
+- Distributed systems fundamentals  
+- Rust ecosystem (desktop + backend)  
+
+</details>
 
 ---
 
 ## 🌐 Connect
 
-- 💼 Portfolio: https://nishalfdo-portfolio.vercel.app
-- 🐙 GitHub: https://github.com/yourusername
+- 💼 Portfolio: https://nishalfdo-portfolio.vercel.app  
+- 🐙 GitHub: https://github.com/yourusername  
