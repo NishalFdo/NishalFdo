@@ -45,15 +45,15 @@ Frontend Systems    → React
 ## 📊 LIVE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishalFdo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=NishalFdo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 ACTIVITY GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishalFdo&theme=tokyo-night&hide_border=true" />
 
 
 ---
