@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 SYSTEM DOMAINS
+## 🧠 Currently working on MomOS
 
 ```bash
 Desktop Systems     → Tauri + Rust
@@ -32,13 +32,13 @@ Frontend Systems    → React
 ## 🛠 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,react,js,tauri,git" />
+  <img src="https://skillicons.dev/icons?i=,java,rust,python,react,js,tauri,git" />
 </p>
 
 ---
 
 
-🔗 Explore → https://github.com/yourusername?tab=repositories
+🔗 Explore → https://github.com/NishalFdo?tab=repositories
 
 ---
 
